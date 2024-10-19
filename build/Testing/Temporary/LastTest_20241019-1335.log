@@ -1,0 +1,36 @@
+Start testing: Oct 19 16:39 EEST
+----------------------------------------------------------
+1/1 Testing: labor6_1test
+1/1 Test: labor6_1test
+Command: "/Users/vladislav/Desktop/foruniversity/AP/cds/lb6/Labw61/build/test/labor6_1test"
+Directory: /Users/vladislav/Desktop/foruniversity/AP/cds/lb6/Labw61/build/test
+"labor6_1test" start time: Oct 19 16:39 EEST
+Output:
+----------------------------------------------------------
+[==========] Running 5 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 5 tests from SumTest
+[ RUN      ] SumTest.HandlesEmptyArray
+[       OK ] SumTest.HandlesEmptyArray (0 ms)
+[ RUN      ] SumTest.HandlesSingleElement
+[       OK ] SumTest.HandlesSingleElement (0 ms)
+[ RUN      ] SumTest.HandlesMultipleElements
+[       OK ] SumTest.HandlesMultipleElements (0 ms)
+[ RUN      ] SumTest.HandlesNegativeNumbers
+[       OK ] SumTest.HandlesNegativeNumbers (0 ms)
+[ RUN      ] SumTest.HandlesMixedNumbers
+[       OK ] SumTest.HandlesMixedNumbers (0 ms)
+[----------] 5 tests from SumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"labor6_1test" end time: Oct 19 16:39 EEST
+"labor6_1test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 19 16:39 EEST

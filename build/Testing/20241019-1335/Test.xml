@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20241019-1335-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="MacBook-Pro-Vladislav.local"
+	OSRelease="14.5"
+	OSVersion="23F79"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="3072"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Oct 19 16:39 EEST</StartDateTime>
+		<StartTestTime>1729345196</StartTestTime>
+		<TestList>
+			<Test>./test/labor6_1test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>labor6_1test</Name>
+			<Path>./test</Path>
+			<FullName>./test/labor6_1test</FullName>
+			<FullCommandLine>/Users/vladislav/Desktop/foruniversity/AP/cds/lb6/Labw61/build/test/labor6_1test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.294934</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/vladislav/Desktop/foruniversity/AP/cds/lb6/Labw61/build/test/labor6_1test</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNksFOwzAMQO/5Ch/ZoRUcduQwiQokRJlWOFU9ZKqZIiVOlTiD/T3ZCtVaiRDfnLw824rb+yk62AUiRQdYA6NnDx/OGri7JOCDYixFW0zRwaO2e6nHe6SjcpYMUmSRizAs4Jm0CeYtZqKF3XsNl+h+D8snSb1GX5mBTxvn5CliY7w+pzC4uQXjV0lpE+fTWGk8N5r0zsgc9UvQrIbpiU/al3BOgRoPktUR62D26NL+BZvVv/rCPsd9DU7i/756BIEtS70SeXvEKF3R208S7fWa/rme4CSV80Jxju2maaqH88A/D0vxDZMF7T4=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 19 16:39 EEST</EndDateTime>
+		<EndTestTime>1729345196</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
